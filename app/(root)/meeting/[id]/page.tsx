@@ -9,7 +9,7 @@ import { useGetCallById } from "@/hooks/useGetCallById";
 import Loader from "@/components/ui/Loader";
 
 const Meeting = ({ params: { id } }: { params: { id: string } }) => {
-  const { user, isLoaded } = useUser();
+  const { isLoaded } = useUser();
   const [isSetupComplete, setIsSetupComlete] = useState(false);
   const { call, isCallLoading } = useGetCallById(id);
 
