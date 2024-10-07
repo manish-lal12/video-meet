@@ -10,13 +10,13 @@ It has following features:
 - User authentication using Clerk
 - Option to change meeting layout
 
-![Screenshot_20241007_084609](https://github.com/user-attachments/assets/0777ce1f-922c-4a91-9673-cfdeb3896f97)
+![Screenshot_20241007_084609](https://github.com/user-attachments/assets/bca86fa1-faa6-4364-a7fd-e448ada03e3e)
 
 ![Screenshot_20241002_161814](https://github.com/user-attachments/assets/7679c089-6685-4eef-a7f9-f952e4795a58)
 
-![Screenshot_20241007_084639](https://github.com/user-attachments/assets/a6f45428-19ee-4616-bb7a-401afb97abd5)
+![Screenshot_20241007_084639](https://github.com/user-attachments/assets/89f83cf2-43d5-4629-adc5-859f6811a8c8)
 
-![Screenshot_20241007_085346](https://github.com/user-attachments/assets/d1010bd7-5ed3-4962-829d-ebff89320db6)
+![Screenshot_20241007_085346](https://github.com/user-attachments/assets/5bfed4fd-369e-4812-8b1a-c096327a4b96)
 
 
 ## Getting Started
