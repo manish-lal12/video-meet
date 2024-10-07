@@ -3,7 +3,7 @@
 
 This is a video-conferencing app built using NextJS. 
 It has following features:
-- Allows user to create a personal room and generates a unique invitation links
+- Allows user to create a personal room and generate a unique invitation link.
 - Allows to record meetings and view it later
 - Facilitates user to schedule upcoming meetings
 - A dashboard to view previous and upcoming meetings
