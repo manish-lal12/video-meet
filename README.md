@@ -1,4 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Imo-Beta 
+
+This is a video-conferencing app built using NextJS. 
+It has following features:
+- Allows user to create a personal room and generates a unique invitation links
+- Allows to record meetings and view it later
+- Facilitates user to schedule upcoming meetings
+- A dashboard to view previous and upcoming meetings
+- User authentication using Clerk
+- Option to change meeting layout
+
+![Screenshot_20241007_084609](https://github.com/user-attachments/assets/0777ce1f-922c-4a91-9673-cfdeb3896f97)
+
+![Screenshot_20241002_161814](https://github.com/user-attachments/assets/7679c089-6685-4eef-a7f9-f952e4795a58)
+
+![Screenshot_20241007_084639](https://github.com/user-attachments/assets/a6f45428-19ee-4616-bb7a-401afb97abd5)
+
+![Screenshot_20241007_085346](https://github.com/user-attachments/assets/d1010bd7-5ed3-4962-829d-ebff89320db6)
+
 
 ## Getting Started
 
