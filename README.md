@@ -1,8 +1,8 @@
+## Video Meet
 
-## Imo-Beta 
-
-This is a video-conferencing app built using NextJS. 
+Video Meet is a video-conferencing app built using NextJS.
 It has following features:
+
 - Allows user to create a personal room and generate a unique invitation link.
 - Allows to record meetings and view it later
 - Facilitates user to schedule upcoming meetings
@@ -17,7 +17,6 @@ It has following features:
 ![Screenshot_20241007_084639](https://github.com/user-attachments/assets/89f83cf2-43d5-4629-adc5-859f6811a8c8)
 
 ![Screenshot_20241007_085346](https://github.com/user-attachments/assets/5bfed4fd-369e-4812-8b1a-c096327a4b96)
-
 
 ## Getting Started
 
